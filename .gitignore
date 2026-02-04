@@ -1,7 +1,4 @@
 # Model checkpoints and results
-results/
-*.pt
-*.pth
 
 # Python
 __pycache__/
